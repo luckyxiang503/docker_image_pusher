@@ -1,1 +1,1 @@
-mysql8:latest
+mysql:8.4.1
