@@ -1,2 +1,2 @@
 mysql:8.4.1
-zhenorzz/goploy:laster
+zhenorzz/goploy:latest
